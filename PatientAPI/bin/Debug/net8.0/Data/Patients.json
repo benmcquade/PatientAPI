@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nhsNumber": "4001234567",
+    "name": "Ben McQuade",
+    "dateOfBirth": "1997-04-27",
+    "gpPractice": "Downtown Medical Centre"
+  },
+  {
+    "id": 2,
+    "nhsNumber": "4012345678",
+    "name": "Sarah Patel",
+    "dateOfBirth": "1985-11-03",
+    "gpPractice": "Riverside Surgery"
+  },
+  {
+    "id": 3,
+    "nhsNumber": "4023456789",
+    "name": "Muhammad Khan",
+    "dateOfBirth": "2002-06-14",
+    "gpPractice": "Hilltop Family Practice"
+  },
+  {
+    "id": 4,
+    "nhsNumber": "4034567890",
+    "name": "Eleanor Rigby",
+    "dateOfBirth": "1958-02-20",
+    "gpPractice": "Greenfield Health Centre"
+  },
+  {
+    "id": 5,
+    "nhsNumber": "4045678901",
+    "name": "Aiden O'Connor",
+    "dateOfBirth": "2010-09-05",
+    "gpPractice": "Oakwood Clinic"
+  },
+  {
+    "id": 6,
+    "nhsNumber": "4056789012",
+    "name": "Grace Lee",
+    "dateOfBirth": "1974-07-12",
+    "gpPractice": "Lakeside Medical Practice"
+  },
+  {
+    "id": 7,
+    "nhsNumber": "4067890123",
+    "name": "Oliver Smith",
+    "dateOfBirth": "1990-01-30",
+    "gpPractice": "Seacliff Surgery"
+  },
+  {
+    "id": 8,
+    "nhsNumber": "4078901234",
+    "name": "Priya Shah",
+    "dateOfBirth": "1966-12-08",
+    "gpPractice": "Westend GP Practice"
+  },
+  {
+    "id": 9,
+    "nhsNumber": "4089012345",
+    "name": "Thomas Muller",
+    "dateOfBirth": "1948-05-21",
+    "gpPractice": "Central Health Hub"
+  },
+  {
+    "id": 10,
+    "nhsNumber": "4090123456",
+    "name": "Zoe Brown",
+    "dateOfBirth": "2015-03-18",
+    "gpPractice": "Northgate Medical Centre"
+  }
+]

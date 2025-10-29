@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PatientAPI.Controllers.PatientController",
+    "Method": "Patient",
+    "RelativePath": "api/Patient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
